@@ -65,7 +65,7 @@ The proxy handles various error conditions and returns appropriate HTTP status c
 ## How to Run
 
 ```bash
-$ git clone https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient.git
+$ git clone https://github.com/Agastya18/Proxy-Server.git
 $ cd MultiThreadedProxyServerClient
 $ make all
 $ ./proxy <port no.>
